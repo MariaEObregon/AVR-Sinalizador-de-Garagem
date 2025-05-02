@@ -1,3 +1,5 @@
+//Programação do Sinalizador de Garagem
+
 #define F_CPU 16000000L
 #include <avr/io.h>
 #include <util/delay.h>
