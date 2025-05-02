@@ -1,4 +1,4 @@
-# 🚦 Sinalizador de Garagem com AVR e Arduino
+# 🚥 Sinalizador de Garagem com AVR e Arduino
 Este projeto consiste no desenvolvimento de um circuito com programação em AVR para controlar dois LEDs (vermelho e amarelo), simulando um sinalizador de garagem. O funcionamento é o seguinte:
 
 Durante a abertura, fechamento ou quando o portão estiver totalmente aberto, os LEDs piscam alternadamente.
@@ -28,7 +28,9 @@ Este projeto faz parte de uma atividade acadêmica e tem como objetivo a aplica�
 | Saída   | LED           | Sinaleiro Vermelho                      | 13                 | 19                | PB5  |
 
 
-
+| 🚥 Simulação no SimulIDE: |
+|:----------------------------------------------------------------:|
+| ![SinalizadorGaragem](SinalizadorGaragem.gif)                                   |
 
 
 
